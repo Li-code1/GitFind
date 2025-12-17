@@ -91,7 +91,5 @@ Exemplo:
 Este projeto é open-source e pode ser utilizado livremente para estudos e melhorias.
 ```
 
----
 
-Esse README está **exatamente alinhado com o que você desenvolveu**: React puro, sem backend, consumindo direto a API do GitHub.  
 
