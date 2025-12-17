@@ -20,7 +20,7 @@ O projeto consome diretamente a API pública do GitHub usando fetch.
 
 ## 📂 Estrutura do projeto
 
-```
+```plaintext
 src/
 ├── App.js          # Componente principal com a lógica de busca
 ├── App.css         # Estilos do App
