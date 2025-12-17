@@ -2,7 +2,7 @@
 ```markdown
 # 🔎 GitHub Profile Finder
 
-Um buscador de perfis e repositórios do GitHub desenvolvido em **React.js**, utilizando **HTML, CSS, JavaScript** e **Fetch API**.  
+Um buscador de perfis e repositórios do GitHub desenvolvido em React.js, utilizando HTML, CSS, JavaScript e Fetch API.  
 O usuário digita o nome de usuário do GitHub e a aplicação retorna informações do perfil e lista de repositórios públicos.
 
 ---
