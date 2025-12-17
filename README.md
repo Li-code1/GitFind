@@ -1,9 +1,10 @@
 
+
 ```markdown
 # 🔎 GitHub Profile Finder
 
-Aplicação simples em React.js que permite buscar perfis e repositórios públicos do GitHub através do nome de usuário.  
-O projeto consome diretamente a API pública do GitHub usando fetch.
+Aplicação simples em **React.js** que permite buscar perfis e repositórios públicos do GitHub através do nome de usuário.  
+O projeto consome diretamente a **API pública do GitHub** usando `fetch`.
 
 ---
 
@@ -13,12 +14,13 @@ O projeto consome diretamente a API pública do GitHub usando fetch.
 - CSS3  
 - JavaScript (ES6+)  
 - Fetch API  
-- Yarn ou NPM para gerenciamento de pacotes  
+- NPM para gerenciamento de pacotes  
 
 ---
 
 ## 📂 Estrutura do projeto
-```
+
+```plaintext
 src/
 ├── App.js          # Componente principal com a lógica de busca
 ├── App.css         # Estilos do App
@@ -37,21 +39,11 @@ cd github-profile-finder
 ```
 
 ### 2. Instalar dependências
-Com Yarn:
-```bash
-yarn install
-```
-Ou com NPM:
 ```bash
 npm install
 ```
 
 ### 3. Rodar o projeto
-Com Yarn:
-```bash
-yarn start
-```
-Ou com NPM:
 ```bash
 npm start
 ```
@@ -90,6 +82,3 @@ Exemplo:
 ## 📄 Licença
 Este projeto é open-source e pode ser utilizado livremente para estudos e melhorias.
 ```
-
-
-
